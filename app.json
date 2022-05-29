@@ -10,7 +10,7 @@
 
     "Vless_UUID": {
       "description": "Vless uuid（http://www.uuid.online/在线生成）",
-      "value": "fb45af49-3f13-44da-9b5c-550d0059ae18"
+      "value": "31fdf608-849e-417e-82c4-9d6a742ccc1a"
     },
 
     "Vless_Path": {
@@ -19,7 +19,7 @@
     },
     "Vmess_UUID": {
       "description": "Vmess uuid（http://www.uuid.online/在线生成）",
-      "value": "fb45af49-3f13-44da-9b5c-550d0059ae18"
+      "value": "31fdf608-849e-417e-82c4-9d6a742ccc1a"
     },
 
     "Vmess_Path": {
@@ -37,7 +37,7 @@
        "value": "latest"
      }
   },
-  "website": "https://github.com/jjtuhuum/ertgd",
-  "repository": "https://github.com/jjtuhuum/ertgd",
+  "website": "https://github.com/jjtuhuum/fcvgb",
+  "repository": "https://github.com/jjtuhuum/fcvgb",
   "stack": "container"
  }
